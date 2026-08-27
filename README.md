@@ -31,19 +31,19 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 **I learned:** (repeat as needed)
 
-- I learned how to use the Github Classroom to accept the assignment and creeate my own repository.
-- I learned git commands like git add, git status, git commit and git push.
-- I learned the difference between committing changes locally and pushing those changes to github.
+- I learned how to use GitHub Classroom to accept the assignment and create my own repository.
+- I learned Git commands such as git add, git status, git commit and git push.
+- I learned the difference between committing changes locally and pushing those changes to GitHub.
 
 **I struggled with:** (repeat as needed)
 
-- I Forgot that i need to use git add before commitinng the change
+- I initially forgot that I need to use git add before committing a change.
 
 **I need the instructor to help me with:** (repeat as needed)
 
-- Everything looks great so far from the understanding point, but i would like more pratice with git brnaches and merging.
+- Everything looks good so far from my understanding, but I would like more practice with Git branches and merging.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ 20] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 ## 📚 References and Citations
 
